@@ -1,0 +1,50 @@
+{
+    "font": "Nunito",
+    "splash": {
+        "slogan": "Free digital library for Vietnamese children"
+    },
+    "current_lang": "en",
+    "dashboard": {
+        "title": "Hello",
+        "recently": "Read recently",
+        "new": "Newly released",
+        "recommended": "Recommended",
+        "trending": "Trending"
+    },
+    "collection":{
+        "title":"Your collection"
+    },
+    "user":{
+        "profile":"Your profile",
+        "change-password":"Change password",
+        "read-books":"Read books",
+        "language":"Language",
+        "logout":"Logout",
+        "language-name": "English"
+    },
+    "book":{
+        "info":{
+            "view-ar":"View AR",
+            "read-book":"Read",
+            "play-game":"Play game",
+            "intro":"Introduction",
+            "read-more":"Read more",
+            "same":"Suggested",
+            "read":"Read",
+            "liked":"Liked",
+            "duration":"Duration",
+            "video-play": "Video"
+        },
+        "read": {
+            "autoplay": "Autoplay"
+        }
+    },
+    "menu":{
+        "arbook":"AR Book",
+        "level1":"Level 1",
+        "level2":"Level 2",
+        "level3":"Level 3",
+        "level4":"Level 4",
+        "level5":"Level 5"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "font": "Khmer",
+    "splash": {
+        "slogan": "Thư viện số miễn phí cho trẻ em Việt Nam"
+    },
+    "current_lang": "khmer",
+    "dashboard": {
+        "title": "Xin chào",
+        "recently": "Bạn đã xem gần đây",
+        "new": "Khám phá sách mới",
+        "recommended": "Đề xuất cho bạn",
+        "trending": "Xu hướng"
+    },
+    "collection":{
+        "title":"Sách bạn đã thích"
+    },
+    "user":{
+        "profile":"Thông tin cá nhân",
+        "change-password":"Đổi mật khẩu",
+        "read-books":"Sách đã xem",
+        "language":"Ngôn ngữ",
+        "logout":"Đăng xuất",
+        "language-name": "Tiếng Khmer"
+    },
+    "book":{
+        "info":{
+            "view-ar":"Xem AR",
+            "read-book":"Đọc sách",
+            "play-game":"Chơi game",
+            "intro":"Giới thiệu",
+            "read-more":"Xem thêm",
+            "same":"Sách cùng chủ đề",
+            "video-play": "Video"
+        },
+        "read": {
+            "autoplay": "Tự động"
+        }
+    },
+    "menu":{
+        "arbook":"Sách AR",
+        "level1":"Cấp độ 1",
+        "level2":"Cấp độ 2",
+        "level3":"Cấp độ 3",
+        "level4":"Cấp độ 4",
+        "level5":"Cấp độ 5"
+    }
+}
